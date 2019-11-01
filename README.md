@@ -1,7 +1,7 @@
 Electronic vote counting as mathematical proof
 ------
 
-This is the Coq code associated with my Honours thesis "Electronic vote counting as mathematical proof" (2016), supervised by Dirk Pattinson. It now also accompanies two papers. The code was written using version 8.4pl6 of [&lt;The Coq Proof Assistant&gt;](https://coq.inria.fr/coq-84).
+This is the Coq code associated with my Honours thesis "Electronic vote counting as mathematical proof" (2016), supervised by [Dirk Pattinson](http://users.cecs.anu.edu.au/~dpattinson/index.html). It now also accompanies two papers. The code was written using version 8.4pl6 of [The Coq Proof Assistant](https://coq.inria.fr/coq-84).
 
 Chapter 3
 ------
