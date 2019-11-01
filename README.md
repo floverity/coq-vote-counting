@@ -18,6 +18,6 @@ There are five files:
   - `FPTP_generic.v' - the Coq implementation of first past the post (FPTP) in the generic framework, as described in section 4.2; 
   - `FPTPCode.hs' - the automatically extracted Haskell code from the implementation of FPTP in the generic framework;
   - `FPTPCount.hs' - the wrapper for FPTPCode.hs;
-  - `STV_generic.v' - the Coq implementation of simple single transferrable vote (STV) in the generic framework, as described in section 4.3;
-  - `Union_generic.v' - the Coq implementation of the Union protocol in the generic framework, as described in section 4.4.2;
+  - `STV_generic.v' - the Coq implementation of simple single transferrable vote (STV) in the generic framework, as described in section 4.3; and
+  - `Union_generic.v' - the Coq implementation of the Union protocol in the generic framework, as described in section 4.4.2.
  
